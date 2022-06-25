@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Go Plus Notify</string>
+    <string name="notification_service_name">Go Plus Notify Service</string>
+    <string name="notification_channel_name">Go Plus Notify</string>
+    <string name="pokestop_spinned">PokéStop spinned!</string>
+    <string name="pokemon_caught">Pokémon caught!</string>
+    <string name="pokemon_fled">Pokémon fled!</string>
+    <string name="out_of_pokeballs">Out of Poké Balls!</string>
+    <string name="bag_full">Item bag is full!</string>
+    <string name="pokemon_space_full">Out of Pokémon space!</string>
+    <string name="disconnected">Go Plus has been disconnected!</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="active_notifications">Active actions notifications</string>
+</resources>
